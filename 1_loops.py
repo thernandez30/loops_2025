@@ -8,7 +8,7 @@ print(fruits[0])
 print(fruits[1])
 print(fruits[2])
 for fruit in fruits:
-    print(fruit)
+     print(fruit)
 # i just worked with loops
 
 # Given a list of school subjects:
